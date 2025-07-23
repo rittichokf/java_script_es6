@@ -1,0 +1,6 @@
+Block Scopt (let / constant)
+
+    let = global variable สามารถทำงานทะลุขอบเขตได้
+    const = ประกาศตัวแปรเก็บค่าคงที่
+
+
